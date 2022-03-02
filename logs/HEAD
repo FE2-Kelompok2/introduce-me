@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 8f3d8a6ba82a9c05a046c411f0467e5c18aa8fde StevenAryaDijaya <dijayastevenarya@gmail.com> 1646122737 +0700	commit (initial): Initial Commit
+8f3d8a6ba82a9c05a046c411f0467e5c18aa8fde 89372d3f6bd82b829070d56583e35089ccce5548 StevenAryaDijaya <dijayastevenarya@gmail.com> 1646123764 +0700	commit: chore: added configuration file
+89372d3f6bd82b829070d56583e35089ccce5548 ab177fc3d7c3e01a93bc1e6c17d9d1ec6c06afef StevenAryaDijaya <dijayastevenarya@gmail.com> 1646124350 +0700	commit: chore: ignore everything inside folder build
+ab177fc3d7c3e01a93bc1e6c17d9d1ec6c06afef 5bba3aafc2f4a4fcbc6fe8e9eb94f1d66b76f199 StevenAryaDijaya <dijayastevenarya@gmail.com> 1646124508 +0700	commit: chore: added config template
+5bba3aafc2f4a4fcbc6fe8e9eb94f1d66b76f199 817868ff89d26c30aaafee69c684e5dd15ef7ae4 StevenAryaDijaya <dijayastevenarya@gmail.com> 1646125030 +0700	commit: chore: added txt dummy file1.txt
+817868ff89d26c30aaafee69c684e5dd15ef7ae4 e14f4f2918baed557800b1371e39f82b4ca4f387 StevenAryaDijaya <dijayastevenarya@gmail.com> 1646125205 +0700	commit (amend): chore: added text dummy file1.txt and file2.txt
